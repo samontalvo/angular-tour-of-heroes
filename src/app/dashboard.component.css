@@ -23,16 +23,6 @@ h3 {
 .col-1-4 {
   width: 25%;
 }
-.module {
-	padding: 20px;
-	text-align: center;
-	color: #eee;
-	max-height: 120px;
-	min-width: 120px;
-	background-color: #607D8B;
-  background-color: rgb(0,120,215);
-	border-radius: 2px;
-}
 h4 {
   position: relative;
 }
